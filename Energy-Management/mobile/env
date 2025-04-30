@@ -1,0 +1,8 @@
+BASE_URL=http://192.168.1.8:5000
+SUPABASE_URL=https://mwhvwfcaeiplbnkxeukn.supabase.co
+SUPABASE_API_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im13aHZ3ZmNhZWlwbGJua3hldWtuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzk0NDk4NTgsImV4cCI6MjA1NTAyNTg1OH0.poeGmu2bEMsylIMKjwjWOssvvGRIdWQ5bkOKMl20P8Y
+RECOVERY_CODE=X7H5UWR6D61UPE411L3SHRR3
+
+supabase auth dashboard: https://supabase.com/dashboard/project/mwhvwfcaeiplbnkxeukn/auth/providers?provider=Phone
+verified numbers: https://console.twilio.com/us1/develop/phone-numbers/manage/verified
+free phone number: https://temporary-phone-number.com/UK-Phone-Number/447874401252

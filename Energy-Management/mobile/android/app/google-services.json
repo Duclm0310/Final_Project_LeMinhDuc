@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656435125487",
+    "project_id": "finalproject-ab998",
+    "storage_bucket": "finalproject-ab998.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656435125487:android:0a2ce34398a88ae9a14f1a",
+        "android_client_info": {
+          "package_name": "com.example.energymanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE-8a9pDnfCiu5k80byeqQ4NodGZ9Gb7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

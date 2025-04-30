@@ -1,0 +1,2 @@
+D:/Final-project/Code/Font_end/Energy-Management/mobile/android/app/.cxx/Debug/65j2w6z4/x86/CMakeFiles/edit_cache.dir
+D:/Final-project/Code/Font_end/Energy-Management/mobile/android/app/.cxx/Debug/65j2w6z4/x86/CMakeFiles/rebuild_cache.dir
